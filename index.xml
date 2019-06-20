@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rei Martial Arts</title>
+    <link>https://reima.com.au/</link>
+    <description>Recent content on Rei Martial Arts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://reima.com.au/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classes</title>
+      <link>https://reima.com.au/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/classes/</guid>
+      <description>Timetable We get together to learn interesting and useful things at these times:
+ Tuesday: 6.30pm - 7.30pm Friday: 6.30pm - 7.30pm  Please arrive at least 15min before the class so your child will have some time to change his clothes.
+What about prices? Here they are:
+ Joining fee - $0 Annual fee - $0 1 months of classes - $100  Bonuses 1) We offer 2 weeks free trial!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://reima.com.au/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/contact/</guid>
+      <description>You are welcome to call us on 0432 785 798 or just submit a form below:
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://reima.com.au/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/location/</guid>
+      <description> Our classes are held at Beecroft Uniting Church - 82 Beecroft road, Beecroft.
+The location is just 5 minutes walking from Beecroft train station or 2 minutes from Beecroft Place.
+Here is the map:  </description>
+    </item>
+    
+    <item>
+      <title>What is Martial Arts for kids</title>
+      <link>https://reima.com.au/what-is-martial-arts-for-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/what-is-martial-arts-for-kids/</guid>
+      <description>Martial arts isn&amp;rsquo;t all about kicking and punching. Violent TV shows and movies might be responsible for some of the bad rap that the sport gets; in reality, martial arts will help your child much more than it will hurt.
+Whether your kid is bursting with energy or shy in most social situations, martial arts can go a long way toward developing qualities and habits in your young ones that can last a lifetime.</description>
+    </item>
+    
+  </channel>
+</rss>

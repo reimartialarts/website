@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://reima.com.au/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://reima.com.au/what-is-martial-arts-for-kids/</loc>
+  </url>
+  
+</urlset>
