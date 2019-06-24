@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Rei Martial Arts</title>
+    <link>https://reima.com.au/articles/</link>
+    <description>Recent content in Articles on Rei Martial Arts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://reima.com.au/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Martial Arts for kids</title>
+      <link>https://reima.com.au/articles/what-is-martial-arts-for-kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/articles/what-is-martial-arts-for-kids/</guid>
+      <description>Martial arts isn&amp;rsquo;t all about kicking and punching. Violent TV shows and movies might be responsible for some of the bad rap that the sport gets; in reality, martial arts will help your child much more than it will hurt.
+Whether your kid is bursting with energy or shy in most social situations, martial arts can go a long way toward developing qualities and habits in your young ones that can last a lifetime.</description>
+    </item>
+    
+  </channel>
+</rss>

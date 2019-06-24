@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rei Martial Arts</title>
+    <title>The place for kids to learn Martial Arts and Self Defense on Rei Martial Arts</title>
     <link>https://reima.com.au/</link>
-    <description>Recent content on Rei Martial Arts</description>
+    <description>Recent content in The place for kids to learn Martial Arts and Self Defense on Rei Martial Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,25 +11,29 @@
     
     
     <item>
-      <title>Classes</title>
-      <link>https://reima.com.au/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reima.com.au/classes/</guid>
-      <description>Timetable We get together to learn interesting and useful things at these times:
- Tuesday: 6.30pm - 7.30pm Friday: 6.30pm - 7.30pm  Please arrive at least 15min before the class so your child will have some time to change his clothes.
-What about prices? Here they are:
- Joining fee - $0 Annual fee - $0 1 months of classes - $100  Bonuses 1) We offer 2 weeks free trial!</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://reima.com.au/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://reima.com.au/contact/</guid>
-      <description>You are welcome to call us on 0432 785 795 or just submit a form below:
-Your Name Email Address An email address is required.  Message   </description>
+      <description>You are welcome to call us on 0432 785 795 or just submit a form below: Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Kids classes</title>
+      <link>https://reima.com.au/kids-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reima.com.au/kids-classes/</guid>
+      <description>When? Here is our timetable:
+ Tuesday: 6.30pm - 7.30pm
+ Friday: 6.30pm - 7.30pm  What about prices?  Here they are:
+ Joining fee - $0
+ Annual fee - $0
+ 1 months of classes - $100  
+Bonuses  1) We offer 2 week free trial!
+2) For each additional month you pay in advance you get $20 off!
+ For example: if you decide to pay 3 months in advance you will get (3months x $20) $60 off which will bring your payment down to $240 instead of $300!</description>
     </item>
     
     <item>
@@ -45,10 +49,10 @@ Here is the map:  If you have any question, don&amp;rsquo;t hesitate to call us 
     
     <item>
       <title>What is Martial Arts for kids</title>
-      <link>https://reima.com.au/what-is-martial-arts-for-kids/</link>
+      <link>https://reima.com.au/articles/what-is-martial-arts-for-kids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reima.com.au/what-is-martial-arts-for-kids/</guid>
+      <guid>https://reima.com.au/articles/what-is-martial-arts-for-kids/</guid>
       <description>Martial arts isn&amp;rsquo;t all about kicking and punching. Violent TV shows and movies might be responsible for some of the bad rap that the sport gets; in reality, martial arts will help your child much more than it will hurt.
 Whether your kid is bursting with energy or shy in most social situations, martial arts can go a long way toward developing qualities and habits in your young ones that can last a lifetime.</description>
     </item>
