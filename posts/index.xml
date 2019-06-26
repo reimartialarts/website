@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The place for kids to improve on Rei Martial Arts</title>
-    <link>https://reima.com.au/</link>
-    <description>Recent content in The place for kids to improve on Rei Martial Arts</description>
+    <title>Posts on Rei Martial Arts</title>
+    <link>https://reima.com.au/posts/</link>
+    <description>Recent content in Posts on Rei Martial Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://reima.com.au/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reima.com.au/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://reima.com.au/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reima.com.au/contact/</guid>
-      <description>Get your 2 week FREE trial by simply submitting this form!
-Your Name Your Phone Number Email Address An email address is required.  Message   You are also welcome to send your questions via this form or call us on 0432 785 795</description>
-    </item>
-    
-    <item>
       <title>Do Martial Arts Classes Actually Help Your Kid To Fight?</title>
       <link>https://reima.com.au/posts/do-martial-arts-help-kids-to-fight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,30 +27,6 @@ Your Name Your Phone Number Email Address An email address is required.  Message
       <guid>https://reima.com.au/posts/do-martial-arts-help-kids-to-fight/</guid>
       <description>Since the karate craze of the 1970s, countless armies of kids have punched, kicked, and yelled “hi YAH!” at suburban dojos and community centre martial arts classes across the country. Martial arts training fosters discipline, encourages physical fitness and gets your kid out of your hair for a couple of hours a week.
 But as a parent, you may wonder: Does this kind of training actually help kids fight back, should they need to?</description>
-    </item>
-    
-    <item>
-      <title>Kids classes</title>
-      <link>https://reima.com.au/kids-classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reima.com.au/kids-classes/</guid>
-      <description>When?  We get together and learn interesting things at this time:
- Tuesday: 6.30pm - 7.30pm Friday: 6.30pm - 7.30pm  What about prices? Here they are:
- Joining fee - $0 Annual fee - $0 1 months of classes - $100  Bonuses 1) We offer 2 week free trial!
-2) For each additional month you pay in advance you get $20 off!
- For example: if you decide to pay 3 months in advance you will get (3months x $20) $60 off which will bring your payment down to $240 instead of $300!</description>
-    </item>
-    
-    <item>
-      <title>Location</title>
-      <link>https://reima.com.au/location/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reima.com.au/location/</guid>
-      <description>Our classes are held at Beecroft Uniting Church - 82 Beecroft road, Beecroft.
-The location is just 5 minutes walk from Beecroft train station or 2 minutes from Beecroft Place.
-Here is the map:  If you have any question, don&amp;rsquo;t hesitate to call us on 0432 785 795.</description>
     </item>
     
     <item>
